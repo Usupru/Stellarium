@@ -41,7 +41,7 @@ pip3 install requests
 
 <h3>⚙️ Usage</h3>
 
-Simply run controller.py and follow futher instructions prompted in the terminal.
+First, enable the <a href="https://stellarium.org/doc/0.16/remoteControlDoc.html?utm_source=chatgpt.com">Remote Control</a> plugin in Stellarium from the Plugins Tab. Afterwards, simply run controller.py and follow futher instructions prompted in the terminal.
 
 <h3>⚠️ Known issues</h3>
 
